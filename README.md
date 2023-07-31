@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MidnightKraken
 - 👀 I’m interested in being a code master (insert funny meme)
 - 🌱 I’m currently learning Ruby/Javascript
-- 💞️ I’m looking to collaborate on ... TBD
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ... TBD
 
 <!---
